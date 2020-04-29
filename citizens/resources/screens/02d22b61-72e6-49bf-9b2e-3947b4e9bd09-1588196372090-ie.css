@@ -1,0 +1,67 @@
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Text {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-more-vertical {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Search {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Bg_status {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=15);
+  filter: alpha(opacity=15);
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-hour {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-signals {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Bg-content {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Item-row {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-User {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-more-vertical_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-date_4 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Reply {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Content {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Image_31 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 #s-Text_1 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-02d22b61-72e6-49bf-9b2e-3947b4e9bd09 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

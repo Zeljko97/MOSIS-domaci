@@ -1,0 +1,29 @@
+#s-afa08c88-d388-46fd-aa60-c8c845924742 #s-Bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-afa08c88-d388-46fd-aa60-c8c845924742 #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-afa08c88-d388-46fd-aa60-c8c845924742 #s-Text_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-afa08c88-d388-46fd-aa60-c8c845924742 #s-Text_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-afa08c88-d388-46fd-aa60-c8c845924742 #s-spinner-2 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-afa08c88-d388-46fd-aa60-c8c845924742 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
